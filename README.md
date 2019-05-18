@@ -1,3 +1,5 @@
+[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
+
 # enjoy996，给你一个更好的996
   “如果无法拒绝996，就去追求一个更好的996”
   
